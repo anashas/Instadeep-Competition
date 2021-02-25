@@ -16,4 +16,4 @@ The Approach used in this Competition is as following:
 * Pseudo_labeling:
 * After making predictions, add the predicted test samples to the original training data, then re-train again
 * submit prediction.
-* put your data into input folder, and your models into models folder
+* put your data into input folder, and your models into models folder.
