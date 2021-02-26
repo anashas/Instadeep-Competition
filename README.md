@@ -22,6 +22,6 @@
 16. Submit prediction.
 17. Put your data into input folder, and your models into models folder.
 18. The model was trained using Google Colab TPU
-19. App demo using GradioML:
+19. [App](https://github.com/anashas/Instadeep-Competition/blob/master/notebooks/Gradio_Prot.ipynb) demo using [GradioML](https://www.gradio.app/):
 
 ![alt text](https://github.com/anashas/Instadeep-Competition/blob/master/screenshot.png "Logo Title Text 1")
