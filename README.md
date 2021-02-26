@@ -1,6 +1,7 @@
 # The Approach used in this Competition is as following:
-[Competition website](https://zindi.africa/competitions/instadeep-enzyme-classification-challenge)
-[My Zindi Profile](https://zindi.africa/users/data_scientist)
+## [Competition website](https://zindi.africa/competitions/instadeep-enzyme-classification-challenge)
+
+## [My Zindi Profile](https://zindi.africa/users/data_scientist)
 
 * Split the training file into 5 folds (source/train_folds.py)
 * Tokenize and padd the data.
@@ -20,3 +21,6 @@
 * After making predictions, add the predicted test samples to the original training data, then re-train again.
 * submit prediction.
 * put your data into input folder, and your models into models folder.
+* App demo using GradioML:
+
+![alt text](https://github.com/anashas/Instadeep-Competition/blob/master/screenshot.png "Logo Title Text 1")
