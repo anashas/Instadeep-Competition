@@ -16,8 +16,7 @@
 11 Dropout
 12 Dense layer with 20 units
 13. Check notebooks/enzyme.ipynb
-14. Pseudo_labeling:
-   ⋅⋅* Small improvement from 88.99 to 89.15
+14. Pseudo_labeling: Small improvement from 88.99 to 89.15
 15. After making predictions, add the predicted test samples to the original training data, then re-train again.
 16. Submit prediction.
 17. Put your data into input folder, and your models into models folder.
