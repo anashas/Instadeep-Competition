@@ -1,7 +1,7 @@
 # The Approach used in this Competition is as follows:
 ## [Competition website](https://zindi.africa/competitions/instadeep-enzyme-classification-challenge)
 
-## [My Zindi Profile](https://zindi.africa/users/data_scientist)
+## [My Zindi Profile](https://zindi.africa/users/Anas_Hasni)
 
 1. Split the training file into 5 folds (source/train_folds.py)
 2. Tokenize and padd the data.
