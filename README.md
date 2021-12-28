@@ -6,7 +6,7 @@
 1. Split the training file into 5 folds ```source/train_folds.py```
 2. Tokenize and padd the data
 3. Embedding layer( embedding dim = 128, max_len=300, batch_size=4096,learning_rate=0.001).
-4. Two Bidirectional GRU layers with 300 units each
+4. Two **Bidirectional GRU** layers with 300 units each
 5. One **Conv1D** layers with 300 filters
 6. One **GlobalAveragePooling1D**
 7. One **GlobalMaxPooling1D**
